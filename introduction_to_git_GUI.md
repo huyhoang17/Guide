@@ -48,4 +48,6 @@ và kiểm tra, tạo và chuyển nhánh trên giao diện dòng lệnh
 
 
 
-__Phụ lục__: hướng dẫn cơ bản về git cho người mới bắt đầu -  https://gist.github.com/huyhoang17/d16139101db1cc7a53a2c646a16997b2
+__Phụ lục__: hướng dẫn cơ bản về git cho người mới bắt đầu
+
+> https://github.com/huyhoang17/Introduction-to-Git/blob/master/introduction_to_git.md
