@@ -42,7 +42,7 @@
 
   ​
 
-và kiểm tra, tạo và chuyển nhánh trên giao diện dòng lệnh
+- và kiểm tra, tạo và chuyển nhánh trên giao diện dòng lệnh
 
   ![Imgur](http://i.imgur.com/LFtFvFh.png)
 
