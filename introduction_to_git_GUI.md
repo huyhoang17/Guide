@@ -28,7 +28,7 @@
 
   ![Imgur](http://i.imgur.com/9Q4AF9H.png)
 
-- Sau đó bạn trup cập theo đường dẫn: https://gitlab.com/pyfml/pyfml để tiến hành clone hay kéo thư mục trên gitlab của lớp về máy. Để ý sẽ có 2 tuỳ chọn
+- Sau đó bạn trup cập theo đường dẫn: https://gitlab.com/pyfml/pyfml để tiến hành clone hay kéo thư mục trên gitlab của lớp về máy (lưu ý, sau buổi học thứ 3 học viên mới được set quyền truy cập vào project, lúc đó mới thực hiện clone được). Để ý sẽ có 2 tuỳ chọn
 
   ![Imgur](http://i.imgur.com/R57XgaJ.png)
 
