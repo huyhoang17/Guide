@@ -1,4 +1,6 @@
-## Hướng dẫn cơ bản về git cho học viên PyFML. 
+## Hướng dẫn cơ bản về git cho học viên PyFML, chi tiết xem tại: [pymivn.github.io/vinagit](https://pymivn.github.io/vinagit/)
+
+__(Lưu ý: phần hướng dẫn nộp bài tập cho học viên PyFML, học viên sau buổi học số 3 mới được set quyền truy cập vào project, lúc đó mới tiến hành thao tác trên repo của lớp được)__
 
 Hướng dẫn gồm 2 file:
 
